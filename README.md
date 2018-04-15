@@ -9,6 +9,7 @@ Curated list of animations with CSS. Please don't forget to give credits to the 
 5. Awesome dodecahedron https://codepen.io/wontem/pen/PqYXop
 6. Circles animation http://cssdeck.com/labs/css3-animated-circles
 7. Solar system https://codepen.io/tadywankenobi/pen/QbWNGR
+8. graph line animation https://codepen.io/Lunnaris/pen/vKWvQN
 
 
 # Javascript 
