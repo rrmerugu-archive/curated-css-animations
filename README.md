@@ -12,7 +12,7 @@ Curated list of animations with CSS. Please don't forget to give credits to the 
 8. graph line animation https://codepen.io/Lunnaris/pen/vKWvQN
 9. gear https://codepen.io/NeckersBOX/pen/weKgZx
 10. other gear - https://codepen.io/tag/gears/3/
-
+11. gears with bg https://codepen.io/gajananpp/pen/KVgaLX
 
 # Javascript 
 
